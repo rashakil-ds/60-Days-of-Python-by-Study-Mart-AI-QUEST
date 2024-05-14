@@ -4,7 +4,7 @@
   <title>60 Days of Python by Study Mart & aiQuest Intelligence</title>
 </head>
 <body>
-  <h1>60 Days of Python by Study Mart & AI QUEST</h1>
+  <h1>60 Days of Python by Study Mart & aiQuest Intelligence</h1>
   <p>Welcome to the <strong>60 Days of Python</strong> repository! This repository contains 60 video materials ranging from basic to advanced Python, curated by Study Mart and aiQuest Intelligence.</p>
 
   <h2>Course Name</h2>
