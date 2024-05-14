@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>60 Days of Python by Study Mart & AI QUEST</title>
+  <title>60 Days of Python by Study Mart & aiQuest Intelligence</title>
 </head>
 <body>
   <h1>60 Days of Python by Study Mart & AI QUEST</h1>
